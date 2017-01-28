@@ -1,7 +1,8 @@
-package org.leandropadua.knockknock.model;
+package org.leandropadua.knockknock.models;
 
 public class FibonacciCalculator {
 
+	//Classic fibonacci algorithm
 	public long calculate(int n) {
         long n2 = 0;
         long n1 = 1;
